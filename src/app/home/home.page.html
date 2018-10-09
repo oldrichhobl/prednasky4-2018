@@ -12,5 +12,14 @@
 <ion-content padding>
   The world is your oyster.
   <p>If you get lost, the
-    <a target="_blank" rel="noopener" href="https://ionicframework.com/docs">docs</a> will be your guide.</p>
+    <a target="_blank" rel="noopener" href="https://ionicframework.com/docs">docs</a> will be your guide.
+  </p>
+
+  <ion-button shape="round" (click)="nactiXml('top')" 
+             color="secondary" fill="outline">Nacti xml</ion-button>
+  <!-- ion-button size="small">Small Button</ion-button -->
+
+  <ion-button expand="block" (click)="presentToast('top')">Show Toast Top Position</ion-button>
+  <ion-button expand="block" (click)="presentToastWithOptions('top')">Options</ion-button>
 </ion-content>
+

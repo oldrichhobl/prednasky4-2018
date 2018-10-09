@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LECTURES>
+  <INFO>
+    <AUTHOR>O.Hobl </AUTHOR>
+    <EMAIL>oldrich.hobl@hgmail.com</EMAIL>
+    <VERSION>DMDcz 4.7.175 CC</VERSION>
+    <BUILD>0</BUILD>
+    <BUILDTIME>09.07.2012 17:35</BUILDTIME>
+    <GUID>{CCBC71C9-CC4B-452B-8408-C092C12DE7D3}</GUID>
+  </INFO>
+  <ORIGIN>
+    <PODNIK>Hobl &amp; Pech</PODNIK>
+    <ICO>49192787</ICO>
+    <DICO>CZ49192787</DICO>
+    <A1>HOBL &amp; PECH, s.r.o.</A1>
+    <A2>Na Vršíčkách 7</A2>
+    <A3>301 00   Plzeň</A3>
+    <DATE>16.07.12 14:25</DATE>
+    <ORIGTIME>14:25:47</ORIGTIME>
+    <AKTROK>2012</AKTROK>
+    <AKTMES>7</AKTMES>
+    <GUID>{0A457876-5B6A-445C-91F7-32228B1BD022}</GUID>
+  </ORIGIN>
+  <NASTAVENI>
+    <SMERVYSTUPU>5</SMERVYSTUPU>
+    <ODDATUMU>01.01.2005</ODDATUMU>
+    <DODATUMU>31.12.2013</DODATUMU>
+  </NASTAVENI>
+<RECS>
+
+  <REC p="1" id="1" d="08/06/2010" t="12:17:45" od="09/09/1998" do="03/01/2007">
+    <nazev>Fenomenologie I.</nazev>
+    <popis>Úvodní kurs fenomenologie z FFUK, přednáší prof. Jan Sokol. Rok 2004-2005</popis>
+    <imgsvg></imgsvg>
+    <base>PREDNASKY/</base>
+    <partlist>
+      <part id="1"  file="fen1_20040220.mp3">
+          
+      </part>
+      <part id="2"  file="fen1_20040227.mp3">
+         <p t="10"> Vopěnka</p> 
+         <p t="20"> -Svět není nějaká věc = svět je to co vidíme = mír - kam dojedeme na koni .</p> 
+         <p t="30"> -Svět nemůže být předmětem.</p>
+         <p t="40"> -Pravda není věc, pravda je vztah .</p>  
+         <p t="50"> -Gaussuv slib. </p>
+         <p t="60"> -Baktérie před Pasteurem nebyly, po Pasteurovi byly odjakživa.</p>
+         <p t="70"> -Leverier  = další planeta sluneční soustavy.</p>
+         <p t="80"> -Řecká věda je přítomná neuvazuje čas. Novověká věda zahrnula čas.</p> 
+         <p t="90"> -Mýtus vychází z minulosti.</p>
+      </part>
+      <part id="3"  file="fen1_20040305.mp3">
+		<p t="10">
+		Nominalismus=konvencionaliste - vytváří matematické pojmy. Versus realismus </p>
+		<p t="10">Vopenka: matematické předměty existují.</p>
+		<p t="20">+ orientální vlivy na řeckou tradici.</p>
+		<p t="30">- individuum = atom od Sokrata</p>
+		<p t="40">+ Neruda písně kosmicke</p>
+		<p t="50">+ třicetiletá válka - Luther</p>
+		<p t="60">+ Komenskeho výmysly po konci třicetileté války ?</p>
+
+		</part>
+		
+      <part id="4" file="fen1_20040312.mp3">
+		<p t="10">16.-17. Stol. Subjekt - OBJEKT. Jipokeimenos = to na čem se dějí protiklady.</p>
+		<p t="20">Descartes Rozprava o metodě</p>
+		<p t="40">OBJEKT - předmět = předhozený psům k roztrhání</p>
+		<p t="80">Radl: Utěcha z filosofie.</p>
+
+		<p t="100">Otázka:</p>
+		<p t="250">1. Rozdíl mezi matematikou založenou na konečném apriori a nekonečném apriori</p>
+		<p t="260">2. kterých pět jmen symbolizuje zrod novověku.</p>
+          
+          </part>
+	<part id="5" file="fen1_20040319.mp3">
+
+	    </part>
+	<part id="6" file="fen1_20040326.mp3">
+
+	    </part>
+	<part id="7" file="fen1_20040402.mp3">
+
+	    </part>
+	<part id="8" file="fen1_20040416.mp3">
+	    </part>
+	<part id="9" file="fen1_20040423.mp3">
+
+	    </part>
+	<part id="10" file="fen1_20040430.mp3">
+	    </part>
+	<part id="11" file="fen1_20040507.mp3">
+	    </part>
+	<part id="12" file="fen1_20040514.mp3">
+	    </part>
+	<part id="13" file="fen2_20041015.mp3">
+	    </part>
+	<part id="14" file="fen2_20041022.mp3">
+	    </part>
+	<part id="15" file="fen2_20041029.mp3">
+	    </part>
+	<part id="16" file="fen2_20041112.mp3">
+	    </part>
+	<part id="17" file="fen2_20041119.mp3">
+	    </part>
+	<part id="18" file="fen2_20041126.mp3">
+	    </part>
+	<part id="19" file="fen2_20041203.mp3">
+	    </part>
+	<part id="20" file="fen2_20041217.mp3">
+	    </part>
+	<part id="21" file="fen2_20050107.mp3">
+	    </part>
+	<part id="22" file="fen2_20050114.mp3">
+
+	    </part>
+	<part id="23" file="fen3_20050221.mp3">
+	    </part>
+	<part id="24" file="fen3_20050228.mp3">
+	    </part>
+	<part id="25" file="fen3_20050307.mp3">
+	    </part>
+	<part id="26" file="fen3_20050314.mp3">
+	    </part>
+	<part id="27" file="fen3_20050321.mp3">
+	    </part>
+	<part id="28" file="fen3_20050404.mp3">
+	    </part>
+	<part id="29" file="fen3_20050411.mp3">
+	    </part>
+	<part id="30" file="fen3_20050425.mp3">
+	    </part>
+	<part id="31" file="fen3_20050502.mp3">
+	    </part>
+	<part id="32" file="fen3_20050509.mp3">
+	    </part>
+	<part id="33" file="fen3_20050516.mp3">
+	    </part>
+      
+    </partlist>
+  </REC>
+
+  <REC p="2" id="2" d="08/06/2010" t="12:17:45" od="09/09/1998" do="03/01/2007">
+    <nazev>Kořeny evropské filosofie</nazev>
+    <popis>Úvodní kurs filosofie</popis>
+    <imgsvg></imgsvg>
+    <base>PREDNASKY/</base>
+    <partlist>
+      <part id="1"  file="fen1_20040220.mp3">Euklides</part>
+      <part id="2"  file="fen1_20040227.mp3">Patočka.</part>
+      <part id="3"  file="fen1_20040305.mp3">Kant I.</part>
+      <part id="4"  file="fen1_20040305.mp3">Kant II.</part>
+      <part id="5"  file="fen1_20040305.mp3">Kant III.</part>
+      <part id="6"  file="fen1_20040305.mp3">Kant IV.</part>
+    </partlist>
+  </REC>
+
+  <REC p="3" id="3" d="08/06/2010" t="12:17:45" od="09/09/1998" do="03/01/2007">
+    <nazev>Kandro Rimpoče 2011</nazev>
+    <popis>Dvanáctičlenný řetězec vzájemného. Rok 2011</popis>
+    <imgsvg></imgsvg>
+    <base>KANDRO2011/</base>
+    <partlist>
+    <part id="1" file="tk_1_01.mp3">Kandro I.</part>
+    <part id="2" file="tk_1_02.mp3">Kandro I.</part>
+    <part id="3" file="tk_1_03.mp3">Kandro I.</part>
+    <part id="4" file="tk_1_04.mp3">Kandro I.</part>
+    <part id="5" file="tk_1_05.mp3">Kandro I.</part>
+    <part id="6" file="tk_1_06.mp3">Kandro I.</part>
+    <part id="7" file="tk_1_07.mp3">Kandro I.</part>
+    <part id="8" file="tk_1_08.mp3">Kandro I.</part>
+    <part id="9" file="tk_1_09.mp3">Kandro I.</part>
+    <part id="10" file="tk_2_01.mp3">Kandro I.</part>
+    <part id="11" file="tk_2_02.mp3">Kandro I.</part>
+    <part id="12" file="tk_2_03.mp3">Kandro I.</part>
+    <part id="13" file="tk_2_04.mp3">Kandro I.</part>
+    <part id="14" file="tk_2_05.mp3">Kandro I.</part>
+    <part id="15" file="tk_2_06.mp3">Kandro I.</part>
+    <part id="16" file="tk_2_07.mp3">Kandro I.</part>
+    <part id="17" file="tk_2_08.mp3">Kandro I.</part>
+    <part id="18" file="tk_2_09.mp3">Kandro I.</part>
+    <part id="19" file="tk_2_10.mp3">12 článků</part>
+    <part id="20" file="tk_2_11.mp3">Kandro I.</part>
+    <part id="21" file="tk_3_01.mp3">Kandro I.</part>
+    <part id="22" file="tk_3_02.mp3">Kandro I.</part>
+    <part id="23" file="tk_3_03.mp3">Kandro I.</part>
+    <part id="24" file="tk_3_04.mp3">Kandro I.</part>
+    <part id="25" file="tk_3_05.mp3">Kandro I.</part>
+    <part id="26" file="tk_3_06.mp3">Kandro I.</part>
+    <part id="27" file="tk_3_07.mp3">Kandro I.</part>
+    <part id="28" file="tk_3_08.mp3">Kandro I.</part>
+    <part id="29" file="tk_3_09.mp3">Kandro I.</part>
+    <part id="30" file="tk_4_01.mp3">Kandro I.</part>
+    <part id="31" file="tk_4_02.mp3">Kandro I.</part>
+    <part id="32" file="tk_4_03.mp3">Kandro I.</part>
+    <part id="33" file="tk_4_04.mp3">Kandro I.</part>
+    <part id="34" file="tk_4_05.mp3">Kandro I.</part>
+    <part id="35" file="tk_4_06.mp3">Kandro I.</part>
+    <part id="36" file="tk_4_07.mp3">Kandro I.</part>
+    <part id="37" file="tk_4_08.mp3">Kandro I.</part>
+    <part id="38" file="tk_4_09.mp3">Kandro I.</part>
+    <part id="39" file="tk_4_10.mp3">Kandro I.</part>
+    <part id="40" file="tk_4_11.mp3">Kandro I.</part>
+    <part id="41" file="tk_4_12.mp3">Kandro I.</part>
+    <part id="42" file="tk_5_01.mp3">Kandro I.</part>
+    <part id="43" file="tk_5_02.mp3">Kandro I.</part>
+    <part id="44" file="tk_5_03.mp3">Kandro I.</part>
+    <part id="45" file="tk_5_04.mp3">Kandro I.</part>
+    <part id="46" file="tk_5_05.mp3">Kandro I.</part>
+    <part id="47" file="tk_5_06.mp3">Kandro I.</part>
+    <part id="48" file="tk_5_07.mp3">Kandro I.</part>
+    <part id="49" file="tk_5_08.mp3">Kandro I.</part>
+    <part id="50" file="tk_5_09.mp3">Kandro I.</part>
+    <part id="51" file="tk_5_10.mp3">Kandro I.</part>
+    <part id="52" file="tk_5_11.mp3">Kandro I.</part>
+    <part id="53" file="tk_5_12.mp3">Kandro I.</part>
+    <part id="54" file="tk_6_01.mp3">Kandro I.</part>
+    <part id="55" file="tk_6_02.mp3">Kandro I.</part>
+    <part id="56" file="tk_6_03.mp3">Kandro I.</part>
+    <part id="57" file="tk_6_04.mp3">Kandro I.</part>
+    <part id="58" file="tk_6_05.mp3">Kandro I.</part>
+    <part id="59" file="tk_6_06.mp3">Kandro I.</part>
+    <part id="60" file="tk_6_07.mp3">Kandro I.</part>
+    <part id="61" file="tk_6_08.mp3">Kandro I.</part>
+    <part id="62" file="tk_6_09.mp3">Kandro I.</part>
+    <part id="63" file="tk_6_10.mp3">Kandro I.</part>
+    <part id="64" file="tk_6_11.mp3">Kandro I.</part>
+    </partlist>
+  </REC>
+  
+
+</RECS>
+
+</LECTURES>

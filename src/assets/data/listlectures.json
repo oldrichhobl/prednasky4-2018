@@ -1,0 +1,1717 @@
+[
+        {
+
+          "category": "Fenomenologie I.",
+          "popis": "Úvodní kurs fenomenologie z FFUK, přednáší prof. Jan Sokol. Rok 2004-2005",
+          "base": "FENOMENO/",
+          "partlist": {
+            "part": [
+              {
+                "-id": "1",
+                "file": "fen1_20040220.mp3",
+                "category": "AA1 Lewinas - nelze číst samostatné. * II.internacionála AA",
+                "poznlist": [
+                  {
+                    "pozn": {
+                      "-id": "1",
+                      "-docas": "50",
+                      "-odcas": "10",
+                      "text": " A1 První poznámka: Lewinas - nelze číst samostatné. * II.internacionálabbbbbbbbb"
+                    }
+                  },
+                  {
+                    "pozn": {
+                      "-id": "2",
+                      "-docas": "500",
+                      "-odcas": "100",
+                      "text": "A2 Druha lewinasova poznamka"
+                    }
+                  },
+                  {
+                    "pozn": {
+                      "-id": "3",
+                      "-docas": "1500",
+                      "-odcas": "500",
+                      "text": "A3 Třetí Lewinasova poznamka"
+                    }
+                  },
+                  {
+                    "pozn": {
+                      "-id": "4",
+                      "-docas": "50000",
+                      "-odcas": "800",
+                      "text": "A4 Čtvrtá Lewinasova poznámka   2000 50000"
+                    }
+                  },
+                  {
+                    "pozn": {
+                      "-id": "4",
+                      "-docas": "50000",
+                      "-odcas": "1000",
+                      "text": "A5 Čtvrtá Lewinasova poznámka   2000 50000"
+                    }
+                  },
+                  {
+                    "pozn": {
+                      "-id": "4",
+                      "-docas": "50000",
+                      "-odcas": "1500",
+                      "text": "A6 Čtvrtá Lewinasova poznámka   2000 50000"
+                    }
+                  },
+                  {
+                    "pozn": {
+                      "-id": "4",
+                      "-docas": "50000",
+                      "-odcas": "1600",
+                      "text": "A7 Čtvrtá Lewinasova poznámka   2000 50000"
+                    }
+                  },
+                  {
+                    "pozn": {
+                      "-id": "4",
+                      "-docas": "50000",
+                      "-odcas": "2000",
+                      "text": "A8 Čtvrtá Lewinasova poznámka   2000 50000"
+				    }
+                  },
+                  {
+                    "pozn": {
+                      "-id": "4",
+                      "-docas": "50000",
+                      "-odcas": "2200",
+                      "text": "A9 Čtvrtá Lewinasova poznámka   2000 50000"
+                    }
+                  },
+                  {
+                    "pozn": {
+                      "-id": "4",
+                      "-docas": "50000",
+                      "-odcas": "2300",
+                      "text": "A10 Čtvrtá Lewinasova poznámka   2000 50000"
+                    }
+                  },
+                  {
+                    "pozn": {
+                      "-id": "4",
+                      "-docas": "50000",
+                      "-odcas": "2500",
+                      "text": "A11 Čtvrtá Lewinasova poznámka   2000 50000"
+                    }
+                  },
+                  {
+                    "pozn": {
+                      "-id": "4",
+                      "-docas": "50000",
+                      "-odcas": "2900",
+                      "text": "A12 Čtvrtá Lewinasova poznámka   2000 50000"
+                    }
+                  },
+                  {
+                    "pozn": {
+                      "-id": "4",
+                      "-docas": "50000",
+                      "-odcas": "3000",
+                      "text": "A13 Čtvrtá Lewinasova poznámka   2000 50000"
+                    }
+                  },
+                  {
+                    "pozn": {
+                      "-id": "4",
+                      "-docas": "50000",
+                      "-odcas": "3500",
+                      "text": "A14 Čtvrtá Lewinasova poznámka   2000 50000"
+                    }
+                  }
+                ]
+              },
+              {
+                "-id": "2",
+                "file": "fen1_20040227.mp3",
+                "category": "Vopěnka, Gauss, Pasteur, Leverier - Mýtus. Pitomec v ruštině. Dalsi",
+                "poznlist": [
+                {
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Vopěnka, Gauss, Pasteur, Leverier - Mýtus. Pitomec v ruštině."
+                  }
+                }
+                ]
+              },
+              {
+                "-id": "3",
+                "file": "fen1_20040305.mp3",
+                "category": "Nominalismus - Konvencionalismus aa",
+                "poznlist": [
+                	{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Nominalismus - Konvencionalismus"
+                  }
+                }]
+              },
+              {
+                "-id": "4",
+                "file": "fen1_20040312.mp3",
+                "category": "16.-17. Stol. Subjekt - OBJEKT. Jipokeimenos = to na čem se dějí protiklady",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: 16.-17. Stol. Subjekt - OBJEKT. Jipokeimenos = to na čem se dějí protiklady "
+                  }
+                }]
+              },
+              {
+                "-id": "5",
+                "file": "fen1_20040319.mp3",
+                "category": "Hegel - konec dějin = Pruský stát.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Hegel - konec dějin = Pruský stát."
+                  }
+               
+                }]
+              },
+              {
+                "-id": "6",
+                "file": "fen1_20040326.mp3",
+                "category": "Sedmý Platonův list",
+                "poznlist":[
+                	{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Sedmý Platonův list"
+                  }
+                
+                }
+                ]
+              },
+              {
+                "-id": "7",
+                "file": "fen1_20040402.mp3",
+                "category": "Pramen jistoty zmizel  - Descart hledá jistotu - hyperbolicka skepse - hledá základ - program na 300  let",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Pramen jistoty zmizel  - Descart hledá jistotu - hyperbolicka skepse - hledá základ - program na 300  let"
+                  }
+                }]
+              },
+              {
+                "-id": "8",
+                "file": "fen1_20040416.mp3",
+                "category": " Proč se věci jeví tak jak se jeví - Descartes neobstál.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka:  Proč se věci jeví tak jak se jeví - Descartes neobstál."
+                  }
+                }]
+              },
+              {
+                "-id": "9",
+                "file": "fen1_20040423.mp3",
+                "category": "Sedmý Platonův list",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Sedmý Platonův list"
+                  }
+                }]
+              },
+              {
+                "-id": "10",
+                "file": "fen1_20040430.mp3",
+                "category": "Ja metafora.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Ja metafora."
+                  }
+                }]
+              },
+              {
+                "-id": "11",
+                "file": "fen1_20040507.mp3",
+                "category": "Odlišný vztah k tělesnosti u Platónaatd. a Aristotela",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Odlišný vztah k tělesnosti u Platóna a Aristotela"
+                  }
+                }]
+              },
+              {
+                "-id": "12",
+                "file": "fen1_20040514.mp3",
+                "category": "Heidegger a jeho fundamentální ontologie....fenomenologie je ontologie smysl byti",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Heidegger a jeho fundamentální ontologie....fenomenologie je ontologie smysl byti"
+                  }
+                }]
+              },
+              {
+                "-id": "13",
+                "file": "fen2_20041015.mp3",
+                "category": "Fenomenologické opakování.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Fenomenologické opakování."
+                  }
+                }]
+              },
+              {
+                "-id": "14",
+                "file": "fen2_20041022.mp3",
+                "category": "Shrnutí Husserla + detekovani krize vědy",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Shrnutí Husserla + detekovani krize vědy"
+                  }
+                }]
+              },
+              {
+                "-id": "15",
+                "file": "fen2_20041029.mp3",
+                "category": "Přirozený pobyt. Čisté já Husserla . Transcendentni a imanentni .Fenomenologicka redukce. Vedotechnika. Jager.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Přirozený pobyt."
+                  }
+                }]
+              },
+              {
+                "-id": "16",
+                "file": "fen2_20041112.mp3",
+                "category": "Psychologie obor.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Psychologie obor."
+                  }
+                }]
+              },
+              {
+                "-id": "17",
+                "file": "fen2_20041119.mp3",
+                "category": "Psychologie se mění ... ",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Psychologie se mění ... "
+                  }
+                }]
+              },
+              {
+                "-id": "18",
+                "file": "fen2_20041126.mp3",
+                "category": "Fyzika u Platóna je vlastně geometrie.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Fyzika u Platóna je vlastně geometrie."
+                  }
+                }]
+              },
+              {
+                "-id": "19",
+                "file": "fen2_20041203.mp3",
+                "category": "Co to ta psychologie vlastně zkoumá.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Co to ta psychologie vlastně zkoumá."
+                  }
+                }]
+              },
+              {
+                "-id": "20",
+                "file": "fen2_20041217.mp3",
+                "category": "Zapušteni do světa - ",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Zapušteni do světa - "
+                  }
+                }]
+              },
+              {
+                "-id": "21",
+                "file": "fen2_20050107.mp3",
+                "category": "Pojem, termín, ztuhlá metafora.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Pojem, termín, ztuhlá metafora."
+                  }
+                }]
+              },
+              {
+                "-id": "22",
+                "file": "fen2_20050114.mp3",
+                "category": "Pozitivismus je náboženství kde na místě boha je člověk",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Pozitivismus je náboženství kde na místě boha je člověk"
+                  }
+                }]
+              },
+              {
+                "-id": "23",
+                "file": "fen3_20050221.mp3",
+                "category": "Lewinas a metafyzika",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Lewinas a metafyzika"
+                  }
+                }]
+              },
+              {
+                "-id": "24",
+                "file": "fen3_20050228.mp3",
+                "category": "metody antropologie - tichomorska kultura - Karel May - Sama mezi indiany.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: metody antropologie - tichomorska kultura - Karel May - Sama mezi indiany."
+                  }
+                }]
+              },
+              {
+                "-id": "25",
+                "file": "fen3_20050307.mp3",
+                "category": "Historie - historicka veda.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Historie - historicka veda."
+                  }
+                }]
+              },
+              {
+                "-id": "26",
+                "file": "fen3_20050314.mp3",
+                "category": "shrnuti z hlediska Lewinase.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: shrnuti z hlediska Lewinase."
+                  }
+                }]
+              },
+              {
+                "-id": "27",
+                "file": "fen3_20050321.mp3",
+                "category": "Lewinasuv rozvrh fenomenologie - ilia - intence - zajem na byti.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Lewinasuv rozvrh fenomenologie - ilia - intence - zajem na byti."
+                  }
+                }]
+              },
+              {
+                "-id": "28",
+                "file": "fen3_20050404.mp3",
+                "category": "Talmudisticke texty  Levinasuv  (Totalita a nekonecno)",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Talmudisticke texty  Levinasuv  (Totalita a nekonecno)"
+                  }
+                }]
+              },
+              {
+                "-id": "29",
+                "file": "fen3_20050411.mp3",
+                "category": "Strukturovani hebrejskych textu",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Strukturovani hebrejskych textu"
+                  }
+                }]
+              },
+              {
+                "-id": "30",
+                "file": "fen3_20050425.mp3",
+                "category": "160 sec. hluku.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: 160 sec. hluku."
+                  }
+                }]
+              },
+              {
+                "-id": "31",
+                "file": "fen3_20050502.mp3",
+                "category": "Essence u Levinase vyjadruje rozdil mezi jsoucnem a bytim.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: "
+                  }
+                }]
+              },
+              {
+                "-id": "32",
+                "file": "fen3_20050509.mp3",
+                "category": "Org.pozn. - ",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Org.pozn. - "
+                  }
+                }]
+              },
+              {
+                "-id": "33",
+                "file": "fen3_20050516.mp3",
+                "category": "Summary. ",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Summary. "
+                  }
+                }]
+              }
+            ]
+          }
+        },
+        {
+          "category": "Kořeny evropské filosofie",
+          "popis": "Úvodní kurs filosofie",
+          "base": "KORENY/",
+          "partlist": {
+            "part": [
+              {
+                "-id": "100001",
+                "file": "ket1_20030930.mp3",
+                "category": "Odkud  jsme přišli. Oikos a Polis a Ojkumene.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Odkud  jsme přišli"
+                  }
+                }]
+              },
+              {
+                "-id": "100002",
+                "file": "ket1_20031007.mp3",
+                "category": "Metafora lesa - oikos",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Metafora lesa - oikos"
+                  }
+                }]
+              },
+              {
+                "-id": "100003",
+                "file": "ket1_20031014.mp3",
+                "category": "Základní archaicka pozice - koza = ziege přestane fungovat mýtus.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Základní archaicka pozice - koza = ziege přestane fungovat mýtus."
+                  }
+                }]
+              },
+              {
+                "-id": "100004",
+                "file": "ket1_20031021.mp3",
+                "category": "Schadewald - větná skladba",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Schadewald - větná skladba"
+                  }
+                }]
+              },
+              {
+                "-id": "100005",
+                "file": "ket1_20031104.mp3",
+                "category": "Opakujeme gramatiku - myšlenky vyjadřujeme jazykem = není pravda",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Opakujeme gramatiku - myšlenky vyjadřujeme jazykem = není pravda"
+                  }
+                }]
+              },
+              {
+                "-id": "100006",
+                "file": "ket1_20031110.mp3",
+                "category": "mýtus jako jazyk nikdo nevytvořil + metafora",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: mýtus jako jazyk nikdo nevytvořil + metafora"
+                  }
+                }]
+              },
+              {
+                "-id": "100007",
+                "file": "ket1_20031118.mp3",
+                "category": "Mýtus  Cont , ",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Mýtus  Cont , "
+                  }
+                }]
+              },
+              {
+                "-id": "100008",
+                "file": "ket1_20031125.mp3",
+                "category": "Žádné mýty nebudou Zvířatům se věci neukazuji.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Žádné mýty nebudou "
+                  }
+                }]
+              },
+              {
+                "-id": "100009",
+                "file": "ket1_20031202.mp3",
+                "category": "tragedie - zpracovava mytus dialektickym způsobem Aischeos: drama Orestes",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: tragedie - zpracovava mytus dialektickym způsobem"
+                  }
+                }]
+              },
+              {
+                "-id": "1000010",
+                "file": "ket1_20031216.mp3",
+                "category": "nahradni prednaska duše",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: nahradni prednaska duše"
+                  }
+                }]
+              },
+              {
+                "-id": "1000011",
+                "file": "ket1_20040106.mp3",
+                "category": "Doxxa = stanovisko   dialogy.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Časopis "
+                  }
+                }]
+              },
+              {
+                "-id": "1000012",
+                "file": "ket1_20041102.mp3",
+                "category": "Kolik je hodin",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kolik je hodin"
+                  }
+                }]
+              },
+              {
+                "-id": "1000013",
+                "file": "ket2_20040224.mp3",
+                "category": "Demokritos Atomos  = objevitel paralelních vesmíru ",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Demokritos Atomos  = objevitel paralelních vesmíru "
+                  }
+                }]
+              },
+              {
+                "-id": "1000014",
+                "file": "ket2_20040302.mp3",
+                "category": "Platón = novoplatonismus  ",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Platón = novoplatonismus  "
+                  }
+                }]
+              },
+              {
+                "-id": "1000015",
+                "file": "ket2_20040309.mp3",
+                "category": "Rekapitulace předchozí přednášky",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Rekapitulace předchozí přednášky"
+                  }
+                }]
+              },
+              {
+                "-id": "1000016",
+                "file": "ket2_20040316.mp3",
+                "category": "Rekapitulace",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Rekapitulace"
+                  }
+                }]
+              },
+              {
+                "-id": "1000017",
+                "file": "ket2_20040323.mp3",
+                "category": "Platonova péče o duši - obec = Makroantropus. Syntéza autority a svobody.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Platonova péče o duši - obec = Makroantropus. Syntéza autority a svobody."
+                  }
+                }]
+              },
+              {
+                "-id": "1000018",
+                "file": "ket2_20040330.mp3",
+                "category": "Druhý rozvrh péče o duši",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Druhý rozvrh péče o duši"
+                  }
+                }]
+              },
+              {
+                "-id": "1000019",
+                "file": "ket2_20040406.mp3",
+                "category": "Smysl pro  bytí.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Smysl pro  bytí."
+                  }
+                }]
+              },
+              {
+                "-id": "1000020",
+                "file": "ket2_20040413.mp3",
+                "category": "Jednotka u Platóna a u Aristotela - ",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Jednotka u Platóna a u Aristotela - "
+                  }
+                }]
+              },
+              {
+                "-id": "1000021",
+                "file": "ket2_20040420.mp3",
+                "category": "Organizační poznámky. Aristotelés: filosofie se  stane  vědou.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Organizační poznámky. Aristotelés: filosofie se  stane  vědou."
+                  }
+                }]
+              },
+              {
+                "-id": "1000022",
+                "file": "ket2_20040427.mp3",
+                "category": "Finiš. ",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Finiš. "
+                  }
+                }]
+              },
+              {
+                "-id": "1000023",
+                "file": "ket2_20040504.mp3",
+                "category": "Poslední Pinc. : vlastní definice dobra - štěstí. Dobro.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Poslední Pinc. : vlastní definice dobra - štěstí."
+                  }
+                }]
+              },
+              {
+                "-id": "1000024",
+                "file": "ket2_20040511.mp3",
+                "category": "Sokol+Benovsky. ",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Sokol+Benovsky. "
+                  }
+                }]
+              }
+            ]
+          }
+        },
+        {
+          "category": "Kandro Rimpoče 2011",
+          "popis": "Dvanáctičlenný řetězec vzájemného. Rok 2011",
+          "base": "KANDRO/",
+          "partlist": {
+            "part": [
+              {
+                "-id": "3001",
+                "file": "tk_1_01.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "3002",
+                "file": "tk_1_02.mp3",
+                "category": "Kandro 2.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "3003",
+                "file": "tk_1_03.mp3",
+                "category": "Kandro 3.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "3004",
+                "file": "tk_1_04.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "3005",
+                "file": "tk_1_05.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "3006",
+                "file": "tk_1_06.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "3007",
+                "file": "tk_1_07.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "3008",
+                "file": "tk_1_08.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "3009",
+                "file": "tk_1_09.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30010",
+                "file": "tk_2_01.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30011",
+                "file": "tk_2_02.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30012",
+                "file": "tk_2_03.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30013",
+                "file": "tk_2_04.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30014",
+                "file": "tk_2_05.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30015",
+                "file": "tk_2_06.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30016",
+                "file": "tk_2_07.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30017",
+                "file": "tk_2_08.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30018",
+                "file": "tk_2_09.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30019",
+                "file": "tk_2_10.mp3",
+                "category": "12 článků",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: 12 článků"
+                  }
+                }]
+              },
+              {
+                "-id": "30020",
+                "file": "tk_2_11.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30021",
+                "file": "tk_3_01.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30022",
+                "file": "tk_3_02.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30023",
+                "file": "tk_3_03.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30024",
+                "file": "tk_3_04.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30025",
+                "file": "tk_3_05.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30026",
+                "file": "tk_3_06.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30027",
+                "file": "tk_3_07.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30028",
+                "file": "tk_3_08.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30029",
+                "file": "tk_3_09.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30030",
+                "file": "tk_4_01.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30031",
+                "file": "tk_4_02.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30032",
+                "file": "tk_4_03.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30033",
+                "file": "tk_4_04.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30034",
+                "file": "tk_4_05.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30035",
+                "file": "tk_4_06.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30036",
+                "file": "tk_4_07.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30037",
+                "file": "tk_4_08.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30038",
+                "file": "tk_4_09.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30039",
+                "file": "tk_4_10.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30040",
+                "file": "tk_4_11.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30041",
+                "file": "tk_4_12.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30042",
+                "file": "tk_5_01.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30043",
+                "file": "tk_5_02.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30044",
+                "file": "tk_5_03.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30045",
+                "file": "tk_5_04.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30046",
+                "file": "tk_5_05.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30047",
+                "file": "tk_5_06.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30048",
+                "file": "tk_5_07.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30049",
+                "file": "tk_5_08.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30050",
+                "file": "tk_5_09.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30051",
+                "file": "tk_5_10.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30052",
+                "file": "tk_5_11.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30053",
+                "file": "tk_5_12.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30054",
+                "file": "tk_6_01.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30055",
+                "file": "tk_6_02.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30056",
+                "file": "tk_6_03.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30057",
+                "file": "tk_6_04.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30058",
+                "file": "tk_6_05.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30059",
+                "file": "tk_6_06.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30060",
+                "file": "tk_6_07.mp3",
+                "category": "Trpělivost Bodhicita",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Trpělivost Bodhicita"
+                  }
+                }]
+              },
+              {
+                "-id": "30061",
+                "file": "tk_6_08.mp3",
+                "category": "Samsara - příčiny* 1.ucitel a zak. 2.svicka plamen 3.zrcadlo ",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Samsara - příčiny* 1.ucitel a zak. 2.svicka plamen 3.zrcadlo "
+                  }
+                }]
+              },
+              {
+                "-id": "30062",
+                "file": "tk_6_09.mp3",
+                "category": "4.razitko 5.křesadlo 6.zrnko 7.citron 8.ozvena",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: 4.razitko 5.křesadlo 6.zrnko 7.citron 8.ozvena"
+                  }
+                }]
+              },
+              {
+                "-id": "30063",
+                "file": "tk_6_10.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              },
+              {
+                "-id": "30064",
+                "file": "tk_6_11.mp3",
+                "category": "Kandro I.",
+                "poznlist": [{
+                  "pozn": {
+                    "-id": "1",
+                    "-docas": "50",
+                    "-odcas": "10",
+                    "text": " První poznámka: Kandro I."
+                  }
+                }]
+              }
+            ]
+          }
+        }
+
+]
