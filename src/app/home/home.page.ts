@@ -35,9 +35,44 @@ export class HomePage {
   }
 
   nactiXml(){
-  	console.log("HOMEpage  nactiXml");
-  	this.dataProvider.getMenus();
+    console.log("HOMEpage  nactiXml");
+    this.dataProvider.getMenus();
   }
 
+  ukazXml(){
+    console.log("HOMEpage  ukazXml");
+    console.dir(this.dataProvider.recxml);
+    this.selectNode("//REC/nazev")
+  }
+
+   selectNode(ss)
+  {
+    console.log("selectNode : " + ss);
+    // var nod = this.myData.XMLdata.selectElements("//RECS/R");
+    let nod = this.dataProvider.recxml.evaluate(ss, this.dataProvider.recxml, null, XPathResult.ANY_TYPE,null); 
+    console.log("ResultType = " + nod.resultType);
     
+    //this.items = [];
+    let i = 0;
+    let actualSpan = nod.iterateNext ();
+    while (actualSpan) {
+     /*
+      this.items.push({
+        note: actualSpan.attributes['w'].value,
+        sound:actualSpan.attributes['s'].value,
+        title: actualSpan.innerHTML,
+        icon: this.icons[Math.floor(Math.random() * this.icons.length)]
+      }
+      );
+      */  
+      i++;
+      // console.log("den " + i + "  " + actualSpan.attributes['d'].value);
+      console.log("nazev " + actualSpan.innerHTML);
+      actualSpan = nod.iterateNext ()
+    }
+
+  }
+
+
+
 }

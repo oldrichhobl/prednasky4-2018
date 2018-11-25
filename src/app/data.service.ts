@@ -14,37 +14,59 @@ import { HttpClient } from '@angular/common/http';
 
 export class DataProvider {
 
+   public rec : any;
+   public recxml : any;
+
+
  constructor(public http: HttpClient) {
     console.log('Hello Data Provider');
   }
 
   getMenus(){
   	console.log('Data Provider - getMenus');
-   // console.dir(this.http.get('assets/data/listlectures.json'));
-   // return this.http.get('assets/data/listlectures.json').pipe(map((response:Response)=>response.json()));
+    if (typeof (window as any).DOMParser != "undefined") {
+         console.log(" OK DOMParser neni undefined !!!!!");
+         }    
+    //console.dir(this.http.get('assets/data/listlectures.json'));
+
+    this.http.get('assets/data/listlectures.xml', {responseType: 'text'}).subscribe(
+       x => {console.log('Observer got a next value: ');
+             // console.dir(x)
+         // domparser
+            let Parser = new (window as any).DOMParser();
+            this.recxml = Parser.parseFromString(x, "text/xml");
+            console.dir(this.recxml);
+
+            },
+       err => console.error('Observer got an error: ' + err),
+       () => console.log('Observer got a complete notification')
+    ); 
+
    // return this.http.get('assets/data/listlectures.json');
-   this.http.get('assets/data/listlectures.json').pipe(
-    //this.http.get('http://www.dramatik.cz').pipe(
-      map((data) => {
-      console.log(data);
-  }))
-    
-  /* this.http.get('http://ionic.io')
-  .then(data => {
+  }
+  
+  convertMenu()
+   {
+      return new Promise(resolve =>
+      {
+          var 
+             parser = new xml2js.Parser(
+             {
+                trim: true,
+                explicitArray: true
+             });
 
-    console.log(data.status);
-    console.log(data.data); // data received by server
-    console.log(data.headers);
-
-  })
-  .catch(error => {
-
-    console.log(error.status);
-    console.log(error.error); // error message as string
-    console.log(error.headers);
-
-  });
-  */
+         parser.parseString(data, function (err, result) 
+         {
+          console.log("parse result = ");
+          console.dir(result);
+          
+          var obj = result.LECTURES.RECS[0];
+          console.log("OBJ = ");
+          console.dir(obj);
+          resolve(obj);
+         });
+      });
   }
 
 }
