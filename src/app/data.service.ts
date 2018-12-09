@@ -31,12 +31,11 @@ export class DataProvider {
 
     this.http.get('assets/data/listlectures.xml', {responseType: 'text'}).subscribe(
        x => {console.log('Observer got a next value: ');
-             // console.dir(x)
-         // domparser
+            // console.dir(x)
+            // domparser
             let Parser = new (window as any).DOMParser();
             this.recxml = Parser.parseFromString(x, "text/xml");
             console.dir(this.recxml);
-
             },
        err => console.error('Observer got an error: ' + err),
        () => console.log('Observer got a complete notification')
